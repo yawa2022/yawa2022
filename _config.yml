@@ -1,3 +1,5 @@
 remote_theme: pages-themes/cayman
 title: Ozias OROU YAWA
-description: Géographe-Écologue | Expert SIG & Analyse de données spatiales
+description: Géographe-Écologue | Expert SIG & Analyse de données
+# Cette ligne permet d'ajouter des styles personnalisés si besoin
+google_analytics:
