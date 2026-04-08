@@ -1,46 +1,55 @@
 # Ozias OROU YAWA
 **Géographe-Écologue | Expert SIG & Analyse de données spatiales**
 
+[À Propos](#about) | [Parcours Académique](#education) | [Expériences](#experience) | [Projets & Recherche](#projects) | [Contact](#contact)
+
 ---
 
-## 🌿 Profil Professionnel
-En tant que géographe-écologue, ma passion réside dans l'étude des écosystèmes forestiers tropicaux. J'applique des analyses de données spatiales et statistiques avancées pour décrypter et comprendre l'impact des changements globaux sur la biodiversité. Basé à Parakou, j'accompagne les structures dans la gestion durable des ressources naturelles et les études d'impact environnemental.
+<a name="about"></a>
+## 🌿 À Propos
+[cite_start]Je suis passionné par l'étude des écosystèmes forestiers tropicaux. [cite_start]J'applique l'analyse de données spatiales et statistiques pour comprendre l'impact des changements globaux sur la biodiversité. [cite_start]Basé à Parakou, j'interviens comme consultant en SIG pour des études d'impact environnemental (EIE)[cite: 1, 44].
 
+---
+
+<a name="education"></a>
 ## 🎓 Parcours Académique
-* **Master 1 en Aménagement et Gestion des Ressources Naturelles** *Université de Parakou, Faculté d’Agronomie (2025-2026)*
-* **Formation en Agronomisation** *CePeSA, Faculté d’Agronomie, Université de Parakou (2024–2025)*
-* **Licence Professionnelle en Géographie Physique** — *Spécialité Géomatique et Biodiversité* *Département de Géographie, Université de Parakou (2019–2022)* *Mémoire : Fragmentation de la forêt classée des Monts-Kouffè.*
+* [cite_start]**Master 1 en Aménagement et Gestion des Ressources Naturelles** — Université de Parakou (2025-2026)[cite: 5, 6].
+* [cite_start]**Formation en Agronomisation** — CePeSA, Université de Parakou (2024–2025)[cite: 8, 9].
+* [cite_start]**Licence Professionnelle en Géographie Physique** (Géomatique et Biodiversité) — Université de Parakou (2019–2022)[cite: 11, 12].
 
-## 💻 Expertise Technique
-### SIG & Télédétection
-* **Logiciels :** Maîtrise de QGIS, ArcGIS, Surfer 3D, ENVI (traitement d'images satellites).
-* **Analyse de Paysage :** Utilisation de Fragstats et LECOS pour l'analyse spatiale.
-* **Cloud Computing :** Collecte de données via Google Earth Engine (MODIS, NDVI, LST).
+---
 
-### Statistiques & Programmation R
-* **Modélisation :** Modèles linéaires généralisés à effets mixtes (GLMM), Équations structurelles (SEM).
-* **Analyses Multivariées :** PCA, MCA, CA.
-* **Visualisation :** Création de graphiques avancés avec `ggplot2`.
+<a name="experience"></a>
+## 💼 Expériences Professionnelles
 
-### Collecte de Données de Terrain
-* Déploiement de formulaires avec **KoboCollect**.
-* Navigation et cartographie mobile avec **Locus Map**.
+### Assistant Consultant SIG (EIE) | Municipalité de Kalalé
+[cite_start]*Août 2025* [cite: 45]
+* [cite_start]Cartographie de l'état initial pour le projet de dragage de Yolla[cite: 48].
+* [cite_start]Analyse des impacts sur les ressources en eau et l'érosion[cite: 50].
 
-## 📊 Projets Récents & Recherche
-### Cartographie des Résultats du BAC Bénin 2025
-Analyse spatiale automatisée des taux de réussite par département. Ce projet illustre l'utilisation de `ggplot2` et `sf` pour la communication de données publiques.
+### Assistant Cartographe | NASSARA Consulting
+[cite_start]*Mai 2025* [cite: 53]
+* [cite_start]Élaboration de cartes thématiques pour les couloirs de transhumance[cite: 56].
+* [cite_start]Intégration de données GPS et suivi de terrain[cite: 57].
+
+---
+
+<a name="projects"></a>
+## 📊 Projets & Recherche
+### Cartographie : Résultats BAC Bénin 2025
+Visualisation automatisée des taux de réussite par département à l'aide de R et `ggplot2`.
 ![Carte BAC 2025](carte_BAC_2025.jpg)
 
-### Travaux Scientifiques
-* **Plasticité comportementale des fourmis tisserandes (*Oecophylla longinoda*) :** Étude de la sélection des matériaux de construction des nids face aux variations climatiques.
-* **Modèles de Distribution d'Espèces (SDM) :** Introduction et application des SDM pour la conservation.
+### Recherche Scientifique
+* [cite_start]**Oecophylla longinoda :** Étude de la plasticité comportementale des fourmis tisserandes face au climat[cite: 17, 19].
+* [cite_start]**Modèles de Distribution d'Espèces (SDM) :** Introduction aux SDM pour la conservation[cite: 24].
 
-## 💼 Expériences Professionnelles
-* **Assistant Consultant SIG (EIE)** — *Municipalité de Kalalé (2025)* Cartographie de l'état initial pour le projet de dragage de Yolla et analyse des impacts sur les ressources en eau.
-* **Assistant Cartographe Principal** — *Cabinet NASSARA Consulting (2025)* Élaboration de cartes thématiques pour l'aménagement des espaces pastoraux et des couloirs de transhumance.
-* **Spécialiste SIG & Traitement de Données** — *Impact Plus Consulting (2025)* Mise à jour du Plan de Contingence Communal (Gogounou) pour la gestion des risques naturels.
+---
 
-## ✉️ Contact & Liens
-* 📧 [oziasorouyawa00@gmail.com](mailto:oziasorouyawa00@gmail.com)
-* 🔗 [Profil LinkedIn](https://www.linkedin.com/in/ozias-orou-yawa)
-* 🆔 [ORCID : 0000-0003-2924-2460](https://orcid.org/0000-0003-2924-2460)
+<a name="contact"></a>
+## ✉️ Contact
+* [cite_start]**LinkedIn :** [ozias-orou-yawa](https://www.linkedin.com/in/ozias-orou-yawa)[cite: 1].
+* [cite_start]**ORCID :** [0000-0003-2924-2460](https://orcid.org/0000-0003-2924-2460)[cite: 1].
+* [cite_start]**Email :** [oziasorouyawa00@gmail.com](mailto:oziasorouyawa00@gmail.com)[cite: 1].
+
+[Télécharger mon CV (PDF)](CV_Ozias_Janvier 2026.docx)
